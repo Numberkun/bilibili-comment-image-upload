@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0.0
 // @description  点击评论图片按钮弹出上传窗口，支持拖拽、粘贴(Ctrl+V)、选择图片，复用B站原有上传接口
-// @author       Akasashic
+// @author       Numberkun
 // @contributor  DeepSeek V4 Pro
 // @license      MIT
 // @match        https://www.bilibili.com/video/*

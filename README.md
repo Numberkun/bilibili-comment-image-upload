@@ -62,5 +62,5 @@
 
 ## 作者
 
-- **Akasashic** — 策划、测试与发布
+- **Numberkun** — 策划、测试与发布
 - **DeepSeek V4 Pro** — 代码实现
